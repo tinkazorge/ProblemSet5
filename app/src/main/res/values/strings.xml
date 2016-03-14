@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">ProblemSet4</string>
+    <string name="instrutions2">Long click to remove list when completed, short click to edit!</string>
+    <string name="instructions1">Long click to remove list!</string>
+    <string name="add">Add</string>
+    <string name="items">Your Items</string>
+    <string name="lists">Your Lists</string>
+    <string name="add2">Add</string>
+    <string name="intructions_item">Long click to delete your item when it\'s completed!</string>
+    <string name="item_list">Item</string>
+    <string name="your_items">Your items</string>
+</resources>
